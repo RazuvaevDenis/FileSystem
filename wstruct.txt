@@ -1,0 +1,4 @@
+3
+0$*&/$*&/$*&
+1$*&hello.txt$*&/hello.txt$*&Hello world
+2$*&tmp.txt$*&/tmp.txt$*&Tmp file
